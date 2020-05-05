@@ -23,7 +23,7 @@
         android:layout_marginStart="16dp"
         android:text="TextView"
         app:layout_constraintStart_toEndOf="@+id/imageView"
-        tools:layout_editor_absoluteY="55dp" />
+        tools:layout_editor_absoluteY="70dp" />
 
     <VideoView
         android:id="@+id/videoView"
